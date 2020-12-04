@@ -1,0 +1,16 @@
+
+canvas {
+
+  margin-left: 36%;
+  margin-top: 5%;
+  padding: 0;
+
+  display: block;
+}
+
+h1 {
+
+  text-align: center;
+  font-size: 40px;
+  font-family: 'Lucida Sans';
+}
